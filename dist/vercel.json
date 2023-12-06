@@ -27,6 +27,6 @@
         "SESSION_DRIVER": "cookie"
     },
     "rewrites": [
-        { "source": "/(.*)", "destination": "/" }
+        { "source": "/(.*)", "destination": "/api/index.php" }
     ]
 }
