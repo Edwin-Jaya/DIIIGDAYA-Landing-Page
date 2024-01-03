@@ -7,5 +7,6 @@ On going
 This website was made dedicated to my favourite rapper from Bandung, Laze.
 ## How to run
 1. Git clone this repo
-2. Install composer
-3. Run <code>php artisan serve</code>
+2. Rename .env .example to .env
+3. Install composer
+4. Run <code>php artisan serve</code>
